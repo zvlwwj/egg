@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 9,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endLine": 20,
+                        "endColumn": 9,
+                        "endOffset": 852
+                    }
+                }
+            }
+        ]
+    }
+]
