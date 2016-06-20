@@ -16,32 +16,32 @@
         "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\sun.xml"
     },
     {
-        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.xml",
-        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\star.xml"
-    },
-    {
         "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_vortex.xml",
         "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\pop_vortex.xml"
     },
     {
-        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scorecard_gameover.xml",
-        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\scorecard_gameover.xml"
+        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.xml",
+        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\star.xml"
     },
     {
         "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scorecard.xml",
         "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\scorecard.xml"
     },
     {
+        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scorecard_gameover.xml",
+        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\scorecard_gameover.xml"
+    },
+    {
         "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud_off.xml",
         "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\cloud_off.xml"
     },
     {
-        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_swirl.xml",
-        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\pop_swirl.xml"
-    },
-    {
         "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud.xml",
         "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_swirl.xml",
+        "source": "C:\\Users\\zou\\StudioProjects\\egg\\app\\src\\main\\res\\drawable\\pop_swirl.xml"
     },
     {
         "merged": "C:\\Users\\zou\\StudioProjects\\egg\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.xml",
